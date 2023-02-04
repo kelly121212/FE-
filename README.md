@@ -8,3 +8,5 @@
 - 책임감덩어리 ENTJ, 회고조 리더가 되다..!
   - [첫 한달 역시 폭망](https://github.com/kelly121212/TIL/blob/main/LikeLion/review_1.md)
   - [부활하기(?) 위한 Try 일지](https://github.com/kelly121212/TIL/blob/main/LikeLion/review_2.md)
+- [JavaScript 스터디 조원으로써 성공 회고]
+  - [난 오른팔이 제격이였던 걸까](https://github.com/kelly121212/TIL/blob/main/LikeLion/javascript_study_1.md)
